@@ -1,4 +1,5 @@
 <html>
 <head>YETU SUPERMRKET</head>
-<P>YOUR ALL WELCOME</P>
+<P1>YOUR ALL WELCOME</P1>
+<p2>thanks all</p2>
 </html>
